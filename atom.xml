@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://leixiaozeng.github.io</id>
+    <id>https://linuxsoftware.io</id>
     <title>Linux分享站</title>
-    <updated>2020-06-22T21:24:09.549Z</updated>
+    <updated>2020-06-22T21:26:34.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://leixiaozeng.github.io"/>
-    <link rel="self" href="https://leixiaozeng.github.io/atom.xml"/>
+    <link rel="alternate" href="https://linuxsoftware.io"/>
+    <link rel="self" href="https://linuxsoftware.io/atom.xml"/>
     <subtitle>一个分享linux软件，linux小知识，的小站</subtitle>
-    <logo>https://leixiaozeng.github.io/images/avatar.png</logo>
-    <icon>https://leixiaozeng.github.io/favicon.ico</icon>
+    <logo>https://linuxsoftware.io/images/avatar.png</logo>
+    <icon>https://linuxsoftware.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Linux分享站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://leixiaozeng.github.io/post/hello-gridea/</id>
-        <link href="https://leixiaozeng.github.io/post/hello-gridea/">
+        <id>https://linuxsoftware.io/post/hello-gridea/</id>
+        <link href="https://linuxsoftware.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
